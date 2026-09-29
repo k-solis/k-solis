@@ -28,7 +28,9 @@ Licenciada en Sistemas de Información de las Organizaciones (FCE-UBA), actualme
 
 ## Proyecto destacado
 
-**[FOCO](enlace-al-repo)** — Webapp de productividad visual desarrollada en equipo de 5 personas en el marco de Fundación Pescar. Participación en frontend y backend: módulo de tablero y usuario (CRUD), endpoints REST y funcionalidad de arrastrar y soltar.
+**FOCO** — Webapp de productividad visual desarrollada en equipo de 5 personas en el marco de Fundación Pescar. Participación en frontend y backend: módulo de tablero y usuario (CRUD), endpoints REST y funcionalidad de arrastrar y soltar.
+
+🔗 [Repo Backend](https://github.com/ImaaValenzuela/foco.backend) · [Repo Frontend](https://github.com/ImaaValenzuela/foco.frontend) 
 
 ## Contacto
 
