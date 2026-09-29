@@ -32,6 +32,10 @@ Licenciada en Sistemas de Información de las Organizaciones (FCE-UBA), actualme
 
 🔗 [Repo Backend](https://github.com/ImaaValenzuela/foco.backend) · [Repo Frontend](https://github.com/ImaaValenzuela/foco.frontend) 
 
+## Otros proyectos
+
+**[Grupo D · Prototipo](https://github.com/rodriguez109/GrupoD.Prototipo)** — Proyecto académico de desarrollo de software sobre un caso de negocio hipotético, trabajado en equipo. Incluyó una etapa previa de análisis (relevamiento, DFDs y diagramas de flujo) antes de pasar a la implementación. Mi participación se centró en el desarrollo de una de las pantallas del sistema.
+
 ## Contacto
 
 [LinkedIn](https://linkedin.com/in/karenbsolisc) · solischkaren@gmail.com
