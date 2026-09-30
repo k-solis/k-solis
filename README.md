@@ -26,15 +26,14 @@ Licenciada en Sistemas de Información de las Organizaciones (FCE-UBA), actualme
 | Frontend | HTML5, CSS3, Tailwind CSS |
 | Herramientas | Git, GitHub, Trello, VS Code |
 
-## Proyecto destacado
+## Proyectos
 
-**FOCO** — Webapp de productividad visual desarrollada en equipo de 5 personas en el marco de Fundación Pescar. Participación en frontend y backend: módulo de tablero y usuario (CRUD), endpoints REST y funcionalidad de arrastrar y soltar.
+**FOCO** *(2026 - Actualidad)* — Webapp de productividad visual tipo "segundo cerebro", desarrollada en equipo en el marco de Fundación Pescar. Participé en frontend y backend: funcionalidad de arrastrar y soltar (SortableJS) para la creación de notas sobre el canvas, personalización de interfaz con 7 paletas de colores (incluyendo modo oscuro) con persistencia en Supabase, temporizador Pomodoro con modo pantalla completa, módulo de tablero/usuario (CRUD) y endpoints REST para la gestión de bloques/notas. Trabajo bajo metodología ágil con GitFlow, Conventional Commits y revisión de pull requests.
+🔗 [Repo Backend](https://github.com/ImaaValenzuela/foco.backend) · [Repo Frontend](https://github.com/ImaaValenzuela/foco.frontend)
 
-🔗 [Repo Backend](https://github.com/ImaaValenzuela/foco.backend) · [Repo Frontend](https://github.com/ImaaValenzuela/foco.frontend) 
+**Consultoría IT (UBA)** *(2026)* — Análisis de procesos administrativos y de tesorería para una empresa agroindustrial. Relevamiento de requerimientos, identificación de brechas en los procesos actuales y evaluación de proveedores mediante RFI/RFP, con el objetivo de proponer la automatización de dichos procesos a través de una solución SaaS.
 
-## Otros proyectos
-
-**[Grupo D · Prototipo](https://github.com/rodriguez109/GrupoD.Prototipo)** — Proyecto académico de desarrollo de software sobre un caso de negocio hipotético, trabajado en equipo. Incluyó una etapa previa de análisis (relevamiento, DFDs y diagramas de flujo) antes de pasar a la implementación. Mi participación se centró en el desarrollo de una de las pantallas del sistema.
+**[Sistema de Gestión de Almacenamiento](https://github.com/rodriguez109/GrupoD.Prototipo)** *(2025)* — Proyecto académico (UBA) de análisis y desarrollo de un sistema para una empresa de almacenamiento y guarda de mercaderías. Participación en el ciclo completo de análisis: relevamiento de requerimientos, DFDs, diagramas de casos de uso, diagrama de clases y diagramas de secuencia. Desarrollo de una pantalla del prototipo funcional (C#).
 
 ## Contacto
 
