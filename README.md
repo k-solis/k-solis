@@ -57,10 +57,14 @@ Participé en el relevamiento de requerimientos y en el modelado del sistema med
 
 ## Stack técnico
 
-| Área           | Tecnologías                                |
-| -------------- | ------------------------------------------ |
-| Lenguajes      | JavaScript · Python · C# · SQL             |
-| Bases de datos | PostgreSQL · Supabase · MySQL · SQL Server |
-| Desarrollo Web | HTML5 · CSS3 · Tailwind CSS                |
-| Backend        | Node.js · Express                          |
-| Herramientas   | Git · GitHub · Trello · VS Code            |
+### Programación
+JavaScript · Python · C#
+
+### Bases de datos
+SQL · PostgreSQL · MySQL · SQL Server · Supabase
+
+### Desarrollo Web
+HTML5 · CSS3 · Tailwind CSS · Node.js · Express
+
+### Herramientas
+Git · GitHub · Trello · VS Code
